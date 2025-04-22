@@ -1,0 +1,14 @@
+/Users/oscarjeffery/my_scripts/c#/SwapiConsumer/bin/Debug/net9.0/SwapiConsumer
+/Users/oscarjeffery/my_scripts/c#/SwapiConsumer/bin/Debug/net9.0/SwapiConsumer.deps.json
+/Users/oscarjeffery/my_scripts/c#/SwapiConsumer/bin/Debug/net9.0/SwapiConsumer.runtimeconfig.json
+/Users/oscarjeffery/my_scripts/c#/SwapiConsumer/bin/Debug/net9.0/SwapiConsumer.dll
+/Users/oscarjeffery/my_scripts/c#/SwapiConsumer/bin/Debug/net9.0/SwapiConsumer.pdb
+/Users/oscarjeffery/my_scripts/c#/SwapiConsumer/obj/Debug/net9.0/SwapiConsumer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oscarjeffery/my_scripts/c#/SwapiConsumer/obj/Debug/net9.0/SwapiConsumer.AssemblyInfoInputs.cache
+/Users/oscarjeffery/my_scripts/c#/SwapiConsumer/obj/Debug/net9.0/SwapiConsumer.AssemblyInfo.cs
+/Users/oscarjeffery/my_scripts/c#/SwapiConsumer/obj/Debug/net9.0/SwapiConsumer.csproj.CoreCompileInputs.cache
+/Users/oscarjeffery/my_scripts/c#/SwapiConsumer/obj/Debug/net9.0/SwapiConsumer.dll
+/Users/oscarjeffery/my_scripts/c#/SwapiConsumer/obj/Debug/net9.0/refint/SwapiConsumer.dll
+/Users/oscarjeffery/my_scripts/c#/SwapiConsumer/obj/Debug/net9.0/SwapiConsumer.pdb
+/Users/oscarjeffery/my_scripts/c#/SwapiConsumer/obj/Debug/net9.0/SwapiConsumer.genruntimeconfig.cache
+/Users/oscarjeffery/my_scripts/c#/SwapiConsumer/obj/Debug/net9.0/ref/SwapiConsumer.dll

@@ -10,7 +10,7 @@ public class FileOperations
                 Console.WriteLine("The directory was created successfully at {0}.", Directory.GetCreationTime(RUN_ARTIFACTS_PATH));
             }
         } catch (Exception ex) {
-            Console.WriteLine($"there was a problem checking for/creating the dictionary at {RUN_ARTIFACTS_PATH}");
+            Console.WriteLine($"there was a problem checking for/creating the dictionary at {RUN_ARTIFACTS_PATH}:\n{ex}");
         }
     }
 

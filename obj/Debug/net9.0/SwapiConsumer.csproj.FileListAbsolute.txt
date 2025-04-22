@@ -12,3 +12,4 @@
 /Users/oscarjeffery/my_scripts/c#/SwapiConsumer/obj/Debug/net9.0/SwapiConsumer.pdb
 /Users/oscarjeffery/my_scripts/c#/SwapiConsumer/obj/Debug/net9.0/SwapiConsumer.genruntimeconfig.cache
 /Users/oscarjeffery/my_scripts/c#/SwapiConsumer/obj/Debug/net9.0/ref/SwapiConsumer.dll
+/Users/oscarjeffery/my_scripts/c#/SwapiConsumer/obj/Debug/net9.0/SwapiConsumer.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SwapiConsumer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+849da83143c407acd5014366a2f6473e208b4443")]
 [assembly: System.Reflection.AssemblyProductAttribute("SwapiConsumer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SwapiConsumer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
